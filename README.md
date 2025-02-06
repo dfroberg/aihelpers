@@ -80,3 +80,7 @@ options:
                         Maximum number of concurrent browser instances (default: 5)
   --debug               Enable debug logging
 ```
+
+## Credits and References
+
+- [https://github.com/grapeot/devin.cursorrules/tree/master](https://github.com/grapeot/devin.cursorrules/tree/master)
